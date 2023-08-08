@@ -62,11 +62,11 @@ matrix2 <- pay_data2 |>
   as.matrix()
 
 # draw and save heatmap
+png(filename = "earnings.png", res=300, width=2500, height = 2000)
 pheatmap(matrix2, cluster_cols=F,
          main = "Median weekly earnings in English counties from 1998 to 2022",
-         cutree_rows=3,
-         cellwidth = 15, cellheight = 12, fontsize = 8, filename = "earnings.tiff")
-
+         cutree_rows=3)
+dev.off()
 
 
 
