@@ -1,0 +1,3 @@
+## Vital statistics in the UK: marriages, civil partnerships and divorce
+
+Data was obtained from the [Annual UK and constituent country figures for marriages, divorces and civil partnerships](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables) in September 2023, and is downloadable from this repository (["annualreferencetables2021.xlsx"]()).
