@@ -17,4 +17,5 @@ The first same-sex marriage in the UK took place on 29 March 2014 in all countri
 
 
 ### Same-sex divorces
-
+The data on divorces are really limited. In England & Wales it has gone up (possibly in line with the number of marriages - being able to calculate rates here would be useful!) However, because wedding totals in England & Wales aren't reflected by the individual country's numbers (according to ONS notes in spreadsheet) no conclusion can be drawn about total number of marriages (cummulatively over time) and divorces in any given year using the data set I prepared. In addition, civil partnerships that were converted to marriages have been excluded from the data, so conclusions have to be drawn carefully.
+![Two dotplots showing the trends of same-sex divorces in England & Wales (one plot) and Scotland (another plot). No data is available for NI](https://github.com/PlantsGenesBugs/ONSdata/blob/main/samesex_marriage/ss_div.png)
