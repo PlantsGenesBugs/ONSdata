@@ -8,11 +8,12 @@ In terms of population size, based on ONS data from 2021, if England's populatio
 
 ### Same-sex civil partnerships
 The Civil Partnership Act 2004 came into force on 5 December 2005. Even though this meant only a few weeks were available to apply for civil partnership in this year, some people managed to secure this successfully. There was a large uptake in 2005 and then a fairly steady decline in most countries except for Northern Ireland. The decrease in numbers of civil partnerships in 2014 aligns with the passing of the Marriage (Same Sex Couples) Act in 2013. It is also notable that there isn't a big difference in civil partnership numbers between male and female couples (although it appears that uptake by female same-sex couples is higher).
-
+![Four dotplots showing the trends of same-sex civil partnerships over time starting in 2004](https://github.com/PlantsGenesBugs/ONSdata/blob/main/samesex_marriage/ss_civil.png)
 
 
 ### Same-sex marriage
 The first same-sex marriage in the UK took place on 29 March 2014 in all countries except Northern Ireland, which only allowed this since 13 January 2020. In general, there are more female same-sex marriages than male, and more marriages in England than the other countries (but this is expected due to the differences in total population). 
+![Four dotplots showing the trends of same-sex marriages over time starting in 2014](https://github.com/PlantsGenesBugs/ONSdata/blob/main/samesex_marriage/ss_marriage.png)
 
 
 ### Same-sex divorces
